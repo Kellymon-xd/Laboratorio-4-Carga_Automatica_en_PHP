@@ -1,0 +1,10 @@
+# Excluir la carpeta de dependencias de Composer
+/vendor/
+
+# Excluir archivos de configuración del IDE (opcional pero recomendado)
+.vscode/
+.idea/
+
+# Excluir archivos de sistema o temporales
+.DS_Store
+Thumbs.db
