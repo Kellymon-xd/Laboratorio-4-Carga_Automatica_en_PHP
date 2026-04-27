@@ -1,0 +1,11 @@
+{
+    "name": "proyecto/autoload-psr4",
+    "description": "Implementación de Autoload PSR-4",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
